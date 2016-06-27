@@ -6,11 +6,15 @@ Allows users to list spaces they have available, and to hire spaces for the nigh
 
 [Here is a link](https://github.com/makersacademy/course/blob/master/lab_week/makers_bnb_specification.md) to the Specification.
 
+### Pending
+
 ```
 As a user
 So that I can list a new space
 I would like to sign up
 ```
+
+### Done
 
 ```
 As a signed-up user
